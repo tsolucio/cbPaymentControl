@@ -1,0 +1,13 @@
+Index: modules/Accounts/language/en_us.lang.php
+===================================================================
+--- modules/Accounts/language/en_us.lang.php	(revisión: 4390)
++++ modules/Accounts/language/en_us.lang.php	(revisión: 4391)
+@@ -237,6 +237,8 @@
+ // Account Hierarchy
+ 'LBL_SHOW_ACCOUNT_HIERARCHY' => 'Show Account Hierarchy', 
+ 
++'token' => 'Token',
++
+ );
+ 
+ ?>
