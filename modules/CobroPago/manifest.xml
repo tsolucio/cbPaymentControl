@@ -535,6 +535,14 @@
 </sharingaccess>
 <actions>
 <action>
+<name><![CDATA[Import]]></name>
+<status>enabled</status>
+</action>
+<action>
+<name><![CDATA[Export]]></name>
+<status>enabled</status>
+</action>
+<action>
 <name><![CDATA[Merge]]></name>
 <status>enabled</status>
 </action>
@@ -556,20 +564,6 @@
 <label>Activity History</label>
 <sequence>2</sequence>
 <presence>0</presence>
-<actions>
-<action>
-<name><![CDATA[Import]]></name>
-<status>enabled</status>
-</action>
-<action>
-<name><![CDATA[Export]]></name>
-<status>enabled</status>
-</action>
-<action>
-<name><![CDATA[Merge]]></name>
-<status>enabled</status>
-</action>
-</actions>
 <relatedmodule>Calendar</relatedmodule>
 </relatedlist>
 <relatedlist>
